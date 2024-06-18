@@ -4,4 +4,8 @@ Technologies Used:
 		AWS Cloud S3 Bucket Service: Utilized for data storage and management.
 
 Git Repo Link: https://github.com/riyasx7/pusher.git
+<<<<<<< HEAD
 Git link official: https://github.com/satheesh-office/PusherApp.git
+=======
+git repo offical: https://github.com/satheesh-office/PusherApp.git
+>>>>>>> 1fa4886b2c7e65ec6c88f8a707d8452028ba9748
