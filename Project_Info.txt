@@ -1,0 +1,6 @@
+Project description: Developing a Windows Platform Application to Push Files to the Cloud from Specific Folders on a Local PC.
+Technologies Used:
+		C# with .NET Framework: Used for developing both the frontend and backend of the application.
+		AWS Cloud S3 Bucket Service: Utilized for data storage and management.
+
+Git Repo Link: https://github.com/riyasx7/pusher.git
